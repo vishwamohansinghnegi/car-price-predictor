@@ -1,0 +1,5 @@
+outs:
+- md5: a3c30a334ed139a0d2deb802912fca85
+  size: 60094
+  hash: md5
+  path: quikr_car.csv

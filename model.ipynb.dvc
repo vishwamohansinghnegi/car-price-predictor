@@ -1,0 +1,5 @@
+outs:
+- md5: 237916ee4aaf403e8d7d1e4c7a2c8ad2
+  size: 215384
+  hash: md5
+  path: model.ipynb
