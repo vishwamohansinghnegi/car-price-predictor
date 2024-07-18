@@ -1,4 +1,4 @@
-```Car Price Prediction```
+`Car Price Prediction`
 This project aims to predict the price of a car based on various attributes such as the car's name, company, year of manufacture, kilometers driven, and fuel type. It utilizes machine learning algorithms to provide accurate price estimates.
 
 ```Features```
