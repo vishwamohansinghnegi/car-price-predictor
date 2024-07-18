@@ -4,7 +4,7 @@ import pickle
 app = Flask(__name__)
 
 model = pickle.load(open('LinearRegression.pkl' , 'rb'))
-data  = pd.read_csv('Cleaned data.csv')
+data  = pd.read_csv('Cleaned_data.csv')
 
 @app.route('/')
 def index():
